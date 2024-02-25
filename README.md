@@ -1,4 +1,6 @@
-# Cách sử dụng
+## Cách sử dụng
+
+- Tải ngôn ngữ [AutoHotkey](https://www.autohotkey.com/download/ahk-v2.exe)
 
 - Chỉ cần khởi động phần mềm, thì bạn đã có thể sử dụng.
 
@@ -6,7 +8,7 @@
   
 - Bạn có thể để phần mềm này khởi động cùng window bằng cách nhấn Win + R -> Nhập 'shell:startup' -> Ném phần mềm HideDesktopIcon.exe vào trong.
 
-# Shortcut key
+## Shortcut key
 
 - Mặc định là: ALt + D.
 
