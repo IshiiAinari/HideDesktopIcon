@@ -13,4 +13,4 @@
 - Việc chỉnh sửa shortcutkey ở phần mềm này là điều không được hỗ trợ.
 
 ## Display
-![image](https://github.com/IshiiAinari/HideDesktopIcon/assets/118045472/bca68b4a-d5c0-48b2-8067-51b8802b57f6)
+![image](https://github.com/IshiiAinari/HideDesktopIcon/assets/118045472/b348ad61-3ae9-4bf5-9723-0298fe1537b9)
