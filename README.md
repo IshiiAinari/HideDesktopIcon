@@ -1,3 +1,6 @@
+## Lưu ý
+- Chỉ mới sài thử trên window, còn bạn đang sài linux hay macos thì hoạt động hay không thì k biết =))
+
 ## Cách sử dụng
 
 - Tải ngôn ngữ [AutoHotkey](https://www.autohotkey.com/download/ahk-v2.exe)
@@ -8,9 +11,7 @@
 
 ## Shortcut key
 
-- Mặc định là: ALt + D.
-
-- Việc chỉnh sửa shortcutkey ở phần mềm này là điều không được hỗ trợ.
+- Mặc định là: ALt + D (việc chỉnh sửa shortcutkey ở phần mềm này là điều không được hỗ trợ).
 
 ## Display
 ![image](https://github.com/IshiiAinari/HideDesktopIcon/assets/118045472/b348ad61-3ae9-4bf5-9723-0298fe1537b9)
